@@ -1,0 +1,27 @@
+{
+  "name": "homework3",
+  "version": "1.0.0",
+  "description": "> 这是第一个团队作业，希望大家能以团队的方式提交答案，thx",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kisscancer/homework3.git"
+  },
+  "author": "Cheery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kisscancer/homework3/issues"
+  },
+  "homepage": "https://github.com/kisscancer/homework3#readme",
+  "devDependencies": {
+    "mocha": "^3.5.0",
+    "should": "^13.0.0",
+    "webpack": "^3.5.5"
+  }
+}
